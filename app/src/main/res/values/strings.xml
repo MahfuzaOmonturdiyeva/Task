@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="password">Parol</string>
+    <string name="next">Keyingi</string>
+    <string name="login">Login</string>
+    <string name="loginIsEmpty">Loginni kiriting</string>
+    <string name="passwordIsEmpty">Parolni kiriting</string>
+    <string name="loginError">Login 3 tadan ortiq belgidan iborat bo\'lishi lozim</string>
+    <string name="passwordError">Parol 6 ta belgidan kam bo\'lmasligi kerak</string>
+    <string name="telephone">Telefon</string>
+    <string name="samsung">samsung</string>
+    <string name="price">so\'m</string>
+    <string name="descriiption">Collagen Moisture Wrinkle Cream Naboni - юз креми терини ажинлардан ҳалос қилиб таранглаштиради ва унга соғлом жило бағш этади. Крем юз терисида ёпишқоқ бўлиб қолмасдан тез сингиб кетада ва терини намлантиради. \nКрем таркибига аллантоин, гамамелис экстракти ва терини майинлаштирувчи ҳусусиятга эга бўлган, ромашка экстрактлари киради. \nЯхши натижага эришиш учун кремни эрталаб ва кечқурун суртиш тавсия этилади. \nБарча турдаги юз териларига мос келади.\n</string>
+
+
+</resources>
